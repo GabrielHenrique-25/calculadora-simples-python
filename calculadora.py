@@ -32,7 +32,6 @@ while True:
     elif opção == 4:
         divisão = num_1 / num_2
         print(f'{num_1} / {num_2} = {divisão}')
-    
     elif opção == 5:
         num_1 = int(input('Digite o número desejado: '))
         print(f'A raiz de {num_1} = {sqrt(num_1)}')
